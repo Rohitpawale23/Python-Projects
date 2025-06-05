@@ -11,11 +11,11 @@ Welcome to my curated collection of beginner-to-intermediate level **Python Proj
 
 ## 📁 Projects Overview
 
-1. [🤖 Robo Speaker](#1-🤖-robo-speaker)
-2. [🌦️ Weather App](#2-🌦️-weather-app)
-3. [🖼️ Image Resizer](#3-🖼️-image-resizer)
-4. [📚 PDF Merger](#4-📚-pdf-merger)
-5. [🧠 Facial Recognition Attendance System](#5-🧠-facial-recognition-attendance-system)
+1. [🤖 Robo Speaker]((https://github.com/Rohitpawale23/Python-Projects/tree/main/01_RoboSpeaker))
+2. [🌦️ Weather App](https://github.com/Rohitpawale23/Python-Projects/tree/main/02_WeatherApp)
+3. [🖼️ Image Resizer](https://github.com/Rohitpawale23/Python-Projects/tree/main/03_ImageReisizer)
+4. [📚 PDF Merger](https://github.com/Rohitpawale23/Python-Projects/tree/main/04_PDF_Merger)
+5. [🧠 Facial Recognition Attendance System](https://github.com/Rohitpawale23/Python-Projects/tree/main/05_FacialReocgAttendanceSystem)
 
 ---
 
@@ -86,9 +86,3 @@ Welcome to my curated collection of beginner-to-intermediate level **Python Proj
 
 ---
 
-## 🛠 Requirements
-
-Install all required libraries using:
-
-```bash
-pip install -r requirements.txt
